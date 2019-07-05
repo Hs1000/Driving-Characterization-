@@ -1,1 +1,2 @@
 # Driving-Characterization-
+The Project deals with predicting the target variables(scores) using Genetic Grammatical Evolutionary techniques.It deals with 4611 JSON annotated trips files which ahve been very carefully converted into a dataframe keeping in mind the features or trips which were present in most of the files and hence in the next step, we are performing feature engineering to select which features would be most accurate to be used in out Structural Grammatical Evolutionary algorithm for creating a Genetic model
